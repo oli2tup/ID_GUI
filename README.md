@@ -28,8 +28,8 @@ Attempt to add negative input of the correct length also brings up message letti
 ![image](https://user-images.githubusercontent.com/25754048/142044961-5c953ec5-ea4d-42b0-a553-0f6159344789.png)
 
 When removing ID, the user is shown a message letting them know the ID has been removed. 
-![image](https://user-images.githubusercontent.com/25754048/142045033-1dcb3e48-40c2-4576-ab3f-6d27b4089da0.png)
 
+![image](https://user-images.githubusercontent.com/25754048/142045033-1dcb3e48-40c2-4576-ab3f-6d27b4089da0.png)
 After Remove ID, when displaying the ID’s its clear all matching occurrences of the ID entered have been removed. 
 
 ![image](https://user-images.githubusercontent.com/25754048/142045069-9d43eb14-9672-4178-a76c-c3529588fa00.png)
